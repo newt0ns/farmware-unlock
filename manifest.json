@@ -3,7 +3,7 @@
  "language": "python",
  "author": "newt0ns",
  "description": "A simple Farmware progmatic emergency unlock",
- "version": "1.0.0",
+ "version": "1.0.1",
  "min_os_version_major": 6,
  "url": "https://raw.githubusercontent.com/newt0ns/farmware-unlock/master/manifest.json",
  "zip": "https://github.com/newt0ns/farmware-unlock/archive/master.zip",
